@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+
+# gitignore for data folder except SOUL.md and LYRA_REPORT_TEMPLATE.md
+data/*
+!data/SOUL.md
+!data/LYRA_REPORT_TEMPLATE.md
