@@ -1,0 +1,41 @@
+{
+  "tracks": [
+    {
+      "id": "senior-dev",
+      "name": "Senior Software Engineer",
+      "milestones": [
+        { "id": "ch_001", "title": "CORS & Security Integration" },
+        { "id": "ch_002", "title": "Advanced Code Review" },
+        { "id": "ch_003", "title": "System Architecture Design" },
+        { "id": "ch_004", "title": "Legacy Code Refactoring" }
+      ]
+    },
+    {
+      "id": "qa",
+      "name": "Quality Assurance & Testing",
+      "milestones": [
+        { "id": "ch_101", "title": "Unit Testing with Jest/Vitest" },
+        { "id": "ch_102", "title": "Boundary Value Analysis" },
+        { "id": "ch_103", "title": "End-to-End Automation" }
+      ]
+    },
+    {
+      "id": "discipline",
+      "name": "Software Engineering Discipline",
+      "milestones": [
+        { "id": "ch_301", "title": "Strict Reporting Standard" },
+        { "id": "ch_302", "title": "Execution Protocol (Plan-First)" },
+        { "id": "ch_303", "title": "Verification & Testing Rigor" }
+      ]
+    },
+    {
+      "id": "seo",
+      "name": "SEO Specialist",
+      "milestones": [
+        { "id": "ch_201", "title": "Core Web Vitals Audit" },
+        { "id": "ch_202", "title": "Semantic HTML & Accessibility" },
+        { "id": "ch_203", "title": "Content Optimization" }
+      ]
+    }
+  ]
+}
